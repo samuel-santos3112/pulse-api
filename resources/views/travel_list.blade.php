@@ -4,9 +4,7 @@
 </head>
 
 <body>
-    <h1>My Travel Bucket List</h1>
-    <h2>Places I'd Like to Visit</h2>
-    <h2>Places I've Already Been To</h2>
+    <h1>Hello World with Laravel</h1>
 
 </body>
 </html>
